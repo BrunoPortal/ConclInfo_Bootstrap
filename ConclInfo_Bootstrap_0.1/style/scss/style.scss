@@ -1,0 +1,33 @@
+.scrollspySite{
+    position: relative;
+    overflow: auto;
+    height: 470px;
+}
+
+.alterarFonte{
+    font-family: "Trebuchet MS", verdana, arial, "Lucida Sans";
+}
+
+.nav-link, 
+.card-link,
+.fa-cogs,
+.fa-video-camera,
+.fa-wpforms{
+    color: #ff6767;
+}
+
+.nav-link:hover, 
+.card-link:hover{
+    color: #ffb4b4;
+}
+
+.nav-pills {
+  .nav-link.active,
+  .show > .nav-link {
+    background-color: #ce0000;
+  }
+}
+
+.navbar{
+    background-color: #ff6767;
+}
